@@ -1,0 +1,5 @@
+package Playground
+
+class Playground {
+
+}
